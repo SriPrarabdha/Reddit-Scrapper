@@ -7,6 +7,11 @@ Run the script in comment-scrapper.ipynb with you own Reddit-ID , Reddit-Secret
 ### Comments we want to scarpe
 
 ![Reddit Comments](assets\reddit.png)
+<p align="center">
+    <br>
+    <img src="assets\reddit.png" width="400"/>
+    <br>
+<p>
 
 ### Structure of JSON File
 

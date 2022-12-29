@@ -6,7 +6,7 @@ Run the script in comment-scrapper.ipynb with you own Reddit-ID , Reddit-Secret
 
 ### Comments we want to scarpe
 
-![Reddit](assets\Screenshot 2022-12-29 121808.png)
+![Reddit Comments](assets\reddit.png)
 
 ### Structure of JSON File
 
@@ -20,4 +20,4 @@ Run the script in comment-scrapper.ipynb with you own Reddit-ID , Reddit-Secret
 
 And this goes on Recursively in a depth first search manner till a reply with no further reply is found
 
-![JSON](assets\Screenshot 2022-12-29 122755.png)
+![JSON Structure](assets\json.png)
